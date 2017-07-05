@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1497029412 source:c:\users\jorge\documents\codeprojects\oesp\oesp.c
+	<stdio.h>
+	<stdlib.h>
+	<omp.h>
+	<time.h>
+
